@@ -52,7 +52,7 @@ This is a simple Flask-based backend system for managing customer service intera
 
 ## Technologies Used
 - **Backend**: Flask (Python)
-- **Frontend**: React.js
+- **Frontend**: React.js, Next.js, Tailwind CSS
 - **AI**: Google Gemini API for generating AI responses
 - **Encryption**: Fernet (from Python’s cryptography library)
 
