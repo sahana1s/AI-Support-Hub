@@ -1,4 +1,4 @@
-# AI Customer Service Dashboard
+# Resolve-X: Automated Consumer Disputes Resolution
 
 This is a simple Flask-based backend system for managing customer service interactions, including chat history, feedback, and analytics. The system leverages AI to generate responses to customer queries and allows the admin to manage and monitor the interactions securely. It ensures the **integrity** and **security** of the consumer's data by implementing encryption mechanisms (using Fernet).
 
