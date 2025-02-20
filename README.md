@@ -61,3 +61,17 @@ This is a simple Flask-based backend system for managing customer service intera
 - **Data Persistence**: Use a database (e.g., PostgreSQL, MySQL) instead of in-memory storage for scaling purposes.
 - **More Analytics**: Add additional analytics like response accuracy, user satisfaction ratings, etc.
 - **AI Model Tuning**: Fine-tune the AI model for better customer interaction handling.
+
+## App Screenshots
+
+### Dashboard
+
+![Admin Dashboard](dashboard.png)
+
+### Customer Support
+
+![Customer Support](chat.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](admin_analytics.png)
